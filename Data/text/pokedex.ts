@@ -3716,6 +3716,9 @@ export const PokedexText: {[id: IDEntry]: PokedexText} = {
 	astrolotl: {
 		name: "Astrolotl",
 	},
+	tristan: {
+		name: "Tristan",
+	},
 	pokestarsmeargle: {
 		name: "Pokestar Smeargle",
 	},

@@ -1073,4 +1073,5 @@ export const PokemonGoData: import('../sim/dex-species').PokemonGoDataTable = {
 	baxcalibur: {encounters: ['wild', 'noshiny']},
 	gimmighoulroaming: {encounters: ['wild', 'noshiny']},
 	gholdengo: {encounters: ['wild', 'noshiny']},
+	tristan: {encounters: ['wild']},
 };

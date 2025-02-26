@@ -7585,4 +7585,9 @@ export const MovesText: {[id: IDEntry]: MoveText} = {
 			shortDesc: "Nearly always goes first. Always crits.",
 		},
 	},
+	flinchspit: {
+		name: "Flinch Spit",
+		desc: "Has a 100% chance to flinch the opponent.",
+		shortDesc: "Always goes first. Always flinches. Almost always hits.",
+	},
 };

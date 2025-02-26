@@ -5971,9 +5971,8 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		tier: "CAP",
 	},
 	tristan:{
-		tier: "PU",
+		tier: "UU",
 		doublesTier: "(DUU)",
-		natDexTier: "RU",
 	},
 	pokestarsmeargle: {
 		isNonstandard: "Custom",

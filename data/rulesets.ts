@@ -474,16 +474,6 @@ export const Rulesets: import('../sim/dex-formats').FormatDataTable = {
 			}
 		},
 	},
-	potd: {
-		effectType: 'Rule',
-		name: 'PotD',
-		desc: "Forces the Pokemon of the Day onto every random team.",
-		onBegin() {
-			if (global.Config && global.Config.potd) {
-				this.add('rule', "Pokemon of the Day: " + this.dex.species.get(Config.potd).name);
-			}
-		},
-	},
 	forcemonotype: {
 		effectType: 'ValidatorRule',
 		name: 'Force Monotype',

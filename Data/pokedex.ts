@@ -19581,7 +19581,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		weightkg: 200,
 		color: "blue",
 		eggGroups: ["Undiscovered"],
-		gen: 8,
+		gen: 9,
 	},
 	// NOTE: PokeStar "formes" are not actually formes and thus do not have a formeOrder
 	pokestarsmeargle: {
